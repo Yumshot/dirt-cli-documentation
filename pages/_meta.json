@@ -1,3 +1,22 @@
 {
-  "index": "Introduction"
+  "index": {
+    "title": "Introduction",
+    "theme": {
+      "breadcrumb": false,
+      "footer": false,
+      "sidebar": true,
+      "toc": true,
+      "pagination": false 
+    }
+  },
+  "faq": {
+    "title": "FAQ",
+    "theme": {
+      "breadcrumb": false,
+      "footer": false,
+      "sidebar": true,
+      "toc": true,
+      "pagination": false 
+    }
+  }
 }
